@@ -18,14 +18,12 @@ video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Nuestras instalaciones
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: https://buy.stripe.com/8wMg1ub20ezX6vm000
+    title: Compra aqui
+  - description: https://buy.stripe.com/8wMg1ub20ezX6vm000
+    title: Compra aqui
+  - description: https://buy.stripe.com/8wMg1ub20ezX6vm000
+    title: Compra aqui
 gallery:
   - alt: yellow rope image
     image: https://ucarecdn.com/a09d1251-517d-492c-a98b-6fcac1d3989e/
@@ -34,7 +32,7 @@ gallery:
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
     title: Acido Hialuronico
   - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
+    image: https://ucarecdn.com/1640660d-bd5c-48f9-9fd9-81b3276133ab/
     title: Acido Hialuronico
 meta:
   description: ¿Q﻿uienes somos y a donde vamos?
