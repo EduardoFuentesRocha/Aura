@@ -1,16 +1,14 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: Nosotros
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+subtitle: ¿Q﻿uienes somos y a donde vamos?
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## ¿﻿Que es el Acido Hialuronico?
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  El Ácido Hialurónico **es una molécula de azúcar amante del agua que se encuentra naturalmente en la piel**. El Ácido Hialurónico, un humectante que ayuda a conservar o retener la humedad, es un ingrediente de confianza para las fórmulas hidratantes.
 section2: >-
   ## You can use videos, images and text.
 
