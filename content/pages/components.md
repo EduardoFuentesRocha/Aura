@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Nosotros
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/f9720008-4c6c-477c-849f-ce34397d3d5d/
 subtitle: ¿Q﻿uienes somos y a donde vamos?
 section1: >-
   ## ¿﻿Que es el Acido Hialuronico?
@@ -28,14 +28,14 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
+    image: https://ucarecdn.com/a09d1251-517d-492c-a98b-6fcac1d3989e/
+    title: Acido Hialuronico
   - alt: umbrellas
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
+    title: Acido Hialuronico
   - alt: yellow ice cream
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+    title: Acido Hialuronico
 meta:
   description: ¿Q﻿uienes somos y a donde vamos?
   title: Nosotros
