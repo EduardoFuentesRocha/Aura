@@ -29,7 +29,7 @@ gallery:
     image: https://ucarecdn.com/a09d1251-517d-492c-a98b-6fcac1d3989e/
     title: Acido Hialuronico
   - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+    image: https://ucarecdn.com/4e45b8bf-dbe4-4d84-92df-838c646eb600/
     title: Acido Hialuronico
   - alt: yellow ice cream
     image: https://ucarecdn.com/1640660d-bd5c-48f9-9fd9-81b3276133ab/
