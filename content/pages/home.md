@@ -1,27 +1,19 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Aura
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: A﻿cido Hialuronico
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+¡Bienvenidos al mundo de Aura! Como líderes en la exportación y desarrollo de químicos de belleza en México, estamos orgullosos de presentar nuestro producto estrella: Aura.
 
 # Features
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+* Aura es una ampolleta de ácido hialurónico de alta calidad que ha sido cuidadosamente desarrollada y formulada para ofrecer los mejores resultados en cuidado de la piel. Con su fórmula única y avanzada, Aura es capaz de hidratar profundamente la piel, reducir visiblemente las arrugas y líneas de expresión, y mejorar la elasticidad y la firmeza de la piel.
+*  Lo que nos distingue de la competencia es que nuestro producto supera a los desarrollados por otras químicas farmacéuticas. ¡Sí, es cierto! Con una combinación única de ingredientes de alta calidad y tecnología avanzada, Aura se ha convertido en la ampolleta de ácido hialurónico más efectiva del mercado.
 
 ## Get started
 
