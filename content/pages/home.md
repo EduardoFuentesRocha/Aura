@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Aura
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/56258df9-7228-4975-ba13-989ad892d294/
 subtitle: A﻿cido Hialuronico
 meta:
   description: A﻿cido Hialuronico
