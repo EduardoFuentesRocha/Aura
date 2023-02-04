@@ -4,8 +4,8 @@ slug: comprar
 title: Comprar
 featuredImage: https://ucarecdn.com/a1a3a8c2-97c2-4893-81a6-229506094fc1/
 meta:
-  description: test meta description
-  title: test meta title
+  description: L﻿leve su ampolleta señor
+  title: Comprar
 ---
 ## L﻿leve su ampolleta señor
 
